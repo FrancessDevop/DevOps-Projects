@@ -89,9 +89,9 @@
 	</build>
 <distributionManagement>
     <repository>
-        <id>central</id>
-        <name>a0nymgefaiwwu-artifactory-primary-0-releases</name>
-        <url>https://edshopdpt8.jfrog.io/artifactory/libs-release-local</url>
+        <id>nexus-releases</id>
+        <name>Nexus Release Repository</name>
+        <url>http://184.72.189.173:8081/repository/FavCess/</url>
     </repository>
 </distributionManagement> 
 
