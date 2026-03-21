@@ -19,6 +19,8 @@
 		<java.version>11</java.version>
 		<sonar.projectKey>FrancessDevop_DevOps-Projects</sonar.projectKey>
 		<sonar.organization>francessdevop</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		
 	</properties>
 
 	<dependencies>
