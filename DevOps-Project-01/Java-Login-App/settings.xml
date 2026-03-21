@@ -11,14 +11,14 @@
   </servers>
 </settings>   
     <server>
-      <username>prdevop26@gmail.com</username>
-      <password>Admin123!</password>
-      <id>central</id>
+      <username>admin</username>
+      <password>Cessvop@96</password>
+      <id>nexus-releases</id>
     </server>
     <server>
-      <username>prdevop26@gmail.com</username>
-      <password>Admin123!</password>
-      <id>snapshots</id>
+      <username>admin</username>
+      <password>Cessvop@96</password>
+      <id>nexus-snapshots</id>
     </server>
   </servers>
   <profiles>
